@@ -129,6 +129,9 @@ for target in targets:
 ```
 
 ## Output:
+<img width="1047" height="775" alt="image" src="https://github.com/user-attachments/assets/848e4602-3a5b-4dfd-a415-0146dd77283d" />
+<img width="1050" height="435" alt="image" src="https://github.com/user-attachments/assets/2a069329-57d1-42d9-ae04-924195866820" />
+
 
 
 ## Result:
